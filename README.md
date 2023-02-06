@@ -13,3 +13,5 @@ GITHUB - Ejercitación final (Paso a paso)
 5- Utilizo "git status" para checkear que el archivo se haya creado en el lugar correcto.
 
 6- Uso "git add", "git commit" y "git push" para subir a la nube el commit inicial.
+
+7- Con "touch privado.txt" creo el fichero privado y, con "mkdir privada", creo la carpeta privada.
