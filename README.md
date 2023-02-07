@@ -80,7 +80,7 @@ BORRAR RAMA:
     21- Elimino la rama v0.2 que ya no voy a utlizar con "git branch -d v0.2".
 
 LISTADO DE CAMBIOS:
-    
+
     * 71c1f39 (HEAD -> main, origin/main) Añado algunos pasos a la lista del readme.
     * f49d08b Elimino la rama v0.2
     * 2f9fb2c Soluciono un error
@@ -107,3 +107,5 @@ CREAR UNA TABLA:
 | Armando Torres Quintana | [ArmaTQ](https://github.com/ArmaTQ) |
 | Camila Calegari | [camicalegari](https://github.com/camilacalegari) |
 | Diego Gómez | [Dielu85](https://github.com/Dielu85) |
+
+Colaborador: Armando Torres Quintana
