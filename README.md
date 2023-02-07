@@ -25,3 +25,16 @@ GITHUB - Ejercitación final (Paso a paso)
 11- Utilizo "git checkout main" para trasladarme nuevamente a la rama principal.
 
 12- Uso "git merge v0.2" para unificar las ramas y elimino la rama que ya no necesito con "git branch -d v0.2".
+
+13- Uso "git merge v0.2" para unificar las ramas.
+
+            MERGE CON CONFLICTO:
+14- Utilizo el comando "echo 'Hola' >> 1.txt" para agregar el texto al fichero, luego lo pusheo.
+
+15- Me muevo a la otra rama con "git checkout v0.2".
+
+16- Vuelvo a utilizar el comando echo pero ahora con un contenido distinto: "echo 'adiós' | tee 1.txt" (Este comando lo busqué por mi cuenta, no sé si es correcto pero funcionó)
+
+17- Me posiciono en la rama principal con "git checkout main"
+
+18- Realizo el "git merge v0.2"
