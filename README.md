@@ -79,6 +79,24 @@ BORRAR RAMA:
 
     21- Elimino la rama v0.2 que ya no voy a utlizar con "git branch -d v0.2".
 
+LISTADO DE CAMBIOS:
+    
+    * 71c1f39 (HEAD -> main, origin/main) Añado algunos pasos a la lista del readme.
+    * f49d08b Elimino la rama v0.2
+    * 2f9fb2c Soluciono un error
+    *   b6cb0cf Realizo el merge habiendo solucionado el conlficto.
+    |\
+    | * 149c8ed (origin/v0.2) Añado el texto al archivo 2.txt en la rama v0.2
+    * | 0141311 Añado texto a 1.txt, corrijo errores menores y divido los pasos del
+    readme por actividad.
+    |/
+    * 9eaec30 Se realizó un merge entre la rama main y la rama v0.2
+    * 420414b Creación de la nueva rama v0.2 y el archivo 2.txt
+    * 45434a4 Creación de archivo 1.txt
+    * f89e5a3 Creación de .gitignore
+    * 87a3743 Pequeño cambio en el archivo readme para facilitar la lectura
+    * df893b7 commit inicial
+    * 92c30a7 Creación de archivo README
 
 CREAR UNA TABLA:
 
