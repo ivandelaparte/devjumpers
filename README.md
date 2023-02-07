@@ -25,7 +25,8 @@ GITHUB - Ejercitación final (Paso a paso)
 9- Creo el fichero 1 utilizando "touch 1.txt", y lo pusheo al repositorio en Github.
 
                 CREAR UNA RAMA v0.2:
-10- Creo la nueva rama y me traslado a ella utilizando "git checkout -b v0.2".
+10- Creo la nueva rama y me traslado a ella utilizando "git checkout -b v0.2". 
+ACLARACIÓN: En este paso creo que olvidé pushear la nueva rama, no sé cómo llegué al resultado. Posteriormente volví a intentar este paso en otro repositorio y esta vez lo hice correctamente.
 
                 AÑADIR FICHERO 2.txt:
 11- Con "touch 2.txt", creo el fichero 2 en la nueva rama, pusheo los cambios al repositorio remoto.
