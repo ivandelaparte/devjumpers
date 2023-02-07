@@ -30,18 +30,21 @@ GITHUB - Ejercitación final (Paso a paso)
                 AÑADIR FICHERO 2.txt:
 11- Con "touch 2.txt", creo el fichero 2 en la nueva rama, pusheo los cambios al repositorio remoto.
 
+
                 MERGE DIRECTO:
 12- Utilizo "git checkout main" para trasladarme nuevamente a la rama principal.
 
 13- Uso "git merge v0.2" para unificar las ramas.
 
                 MERGE CON CONFLICTO:
-14- Utilizo el comando "echo 'Hola' >> 1.txt" para agregar el texto al fichero.
+14- Utilizo el comando "echo 'Hola' >> 1.txt" para agregar el texto al fichero, luego lo pusheo.
 
 15- Me muevo a la otra rama con "git checkout v0.2".
 
-16- Vuelvo a utilizar el comando echo pero ahora con un contenido distinto: "echo 'Adiós' >> 1.txt".
+16- Vuelvo a utilizar el comando echo pero ahora con un contenido distinto: "echo 'adiós' | tee 1.txt" (Este comando lo busqué por mi cuenta, no sé si es correcto pero funcionó), luego pusheo
 
-17- Me posiciono en la rama principal con "git checkout main"
+17- Me posiciono en la rama principal con "git checkout main".
 
-18- Realizo el "git merge v0.2"
+18- Realizo el "git merge v0.2".
+
+19- Con el editor de cógido, me quedo con ambas líneas 'Hola' y 'Adiós' en el fichero 1.
