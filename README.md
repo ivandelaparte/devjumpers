@@ -47,4 +47,11 @@ GITHUB - Ejercitación final (Paso a paso)
 
 18- Realizo el "git merge v0.2".
 
-19- Con el editor de cógido, me quedo con ambas líneas 'Hola' y 'Adiós' en el fichero 1.
+                LISTADO DE RAMAS:
+19- Utilizo "git branch --merged" para asegurarme de que el merge de haya realizado correctamente.
+
+                ARREGLAR CONLICTO:
+20- Con el editor de cógido, me quedo con ambas líneas 'Hola' y 'Adiós' en el fichero 1, realizo el commit y pusheo.
+
+                BORRAR RAMA:
+21- Elimino la rama v0.2 que ya no voy a utlizar con "git branch -d v0.2".
